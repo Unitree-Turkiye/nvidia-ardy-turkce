@@ -1,0 +1,20 @@
+Bu depo nv-tlabs/ardy belgelerinin Türkçe çevirisini içerir.
+This repository contains a Turkish translation of the nv-tlabs/ardy documentation.
+
+Kaynak / Source: https://github.com/nv-tlabs/ardy (commit e706e27, 2026-10-15)
+Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+- Kod ve depo belgeleri / Code and repository documentation: Apache License 2.0
+  https://www.apache.org/licenses/LICENSE-2.0
+  https://github.com/nv-tlabs/ardy/blob/main/LICENSE
+  Değişiklik / Changes: Türkçeye çevrildi, Türkiye bağlantıları eklendi
+  (translated into Turkish, Turkey-specific links added).
+  Çeviri / Translation: Copyright (c) 2026 EP Robot Teknoloji (Robotlar.org), Apache License 2.0.
+- Model kontrol noktaları / Model checkpoints: NVIDIA Open Model Agreement
+  https://www.nvidia.com/en-us/agreements/enterprise-software/nvidia-open-model-agreement/
+  (Hugging Face indirme sayfalarında belirtildiği gibi / as indicated on the Hugging Face download pages)
+- Üçüncü taraf bildirimleri / Third-party notices:
+  https://github.com/nv-tlabs/ardy/blob/main/ATTRIBUTIONS.MD
+
+Bu depoda kaynak kod, model, hareket verisi ya da medya dosyası bulunmaz; görseller orijinal depodan gösterilir.
+This repository holds no source code, models, motion data or media files; images are served from the original repository.
